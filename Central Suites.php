@@ -30,21 +30,23 @@
   </div>
   <div class="promo-box">
     <h2>DEALS OF THE MONTH</h2>
-    <div class="deal">
-      <h3>Double Room Discount</h3>
-      <p>Get 10% discount off the original rate of a Double Room if two or more Double Rooms are reserved in a single booking. Each room becomes eligible for a discount.</p>
-      <p class="code">DR10</p>
-    </div>
-    <div class="deal">
-      <h3>Free Buffet</h3>
-      <p>Book any room type with us this month and indulge in a delectable FREE buffet for two. Savor a delightful array of culinary delights on the house.</p>
-      <p class="code">FB02</p>
-    </div>
-    <!-- New Red Box -->
-    <div class="deal">
-      <h3>Suite Room Discount</h3>
-      <p>Get 15% discount off the original rate of a Double Room if two or more Suite Rooms are reserved in a single booking. Each room becomes eligible for a discount.</p>
-      <p class="code">SR15</p>
+    <div class="deals-container">
+      <div class="deal">
+        <h3>Double Room Discount</h3>
+        <p>Get 10% discount off the original rate of a Double Room if two or more Double Rooms are reserved in a single booking. Each room becomes eligible for a discount.</p>
+        <p class="code">DR10</p>
+      </div>
+      <div class="deal">
+        <h3>Free Buffet</h3>
+        <p>Book any room type with us this month and indulge in a delectable FREE buffet for two. Savor a delightful array of culinary delights on the house.</p>
+        <p class="code">FB02</p>
+      </div>
+      <!-- New Red Box -->
+      <div class="deal">
+        <h3>Suite Room Discount</h3>
+        <p>Get 15% discount off the original rate of a Double Room if two or more Suite Rooms are reserved in a single booking. Each room becomes eligible for a discount.</p>
+        <p class="code">SR15</p>
+      </div>
     </div>
   </div>
   <footer class="footer">
@@ -56,8 +58,3 @@
   </footer>
 </body>
 </html>
-
-
-
-
-
