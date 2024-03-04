@@ -24,7 +24,7 @@
   </header>
   <div class="yellow-box">
     <div class="yellow-box-text">
-      <h2>Come Home to <br>Harmony<br></h2>
+      <h2>Come Home to <br>Harmony<br><br><br><br><br><br></h2>
       <p>Celebrate your genuine five-star experience - <br>unwind, indulge, feast, and enjoy the true essence<br> of coming home</p>
     </div>
   </div>
